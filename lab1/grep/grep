@@ -1,0 +1,4 @@
+1. grep -E ' Харитон | Иннокентий ' Workers
+2. grep -c -v '^[АЕЁИОУЫОЭЯаеёиоуыоэя]' Workers
+3. grep -E '^[АЕЁИОУЫОЭЯаеёиоуыоэя]{3,}' Workers
+4. sort Workers | tail --lines=1

@@ -1,0 +1,4 @@
+1. awk -f 1.awk data/*
+2. awk -f 2.awk data/*
+3. awk -f 3.awk data/*
+4. awk -f 4.awk data/*
